@@ -1,0 +1,6 @@
+4,5c4,5
+< #define STD_SHARED_MUTEX_FOUND 1
+< #define Boost_SHARED_MUTEX_FOUND 0
+---
+> #define STD_SHARED_MUTEX_FOUND 0
+> #define Boost_SHARED_MUTEX_FOUND 1
