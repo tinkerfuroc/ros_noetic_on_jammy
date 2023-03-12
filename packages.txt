@@ -15,3 +15,5 @@ rosserial
 socketcan_interface
 soem
 ur_client_library
+urg_node
+visp_hand2eye_calibration

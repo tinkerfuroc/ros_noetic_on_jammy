@@ -34,5 +34,5 @@ If all above have succeeded, run:
 and wait a while for all packages to compile.
 ### Add environment script to .bashrc
 ```
-echo "source ~/ros_catkin_ws/install_isolated/setup.bash" >> ~/.bashrc
+echo "source ~/ros_noetic_on_jammy/install_isolated/setup.bash" >> ~/.bashrc
 ```
