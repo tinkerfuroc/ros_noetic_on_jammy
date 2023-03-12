@@ -6,6 +6,7 @@ geometric_shapes
 industrial_msgs
 industrial_robot_status_interface
 joint_trajectory_controller
+joy
 moveit
 moveit_core
 moveit_kinematics
