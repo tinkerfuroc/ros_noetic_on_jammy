@@ -1,0 +1,17 @@
+desktop_full
+apriltag_ros
+controller_interface
+controller_manager
+geometric_shapes
+industrial_msgs
+industrial_robot_status_interface
+joint_trajectory_controller
+moveit
+moveit_core
+moveit_kinematics
+moveit_msgs
+nav_core
+rosserial
+socketcan_interface
+soem
+ur_client_library
