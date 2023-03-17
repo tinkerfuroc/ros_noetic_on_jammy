@@ -11,7 +11,7 @@ sudo apt-get update
 ```
 ### Install basic dependencies
 ```
-sudo apt-get install -y python3-rosdep python3-rosinstall-generator python3-vcstools python3-vcstool build-essential python3-numpy
+sudo apt-get install -y python3-pip python3-rosdep python3-rosinstall-generator python3-vcstools python3-vcstool build-essential python3-numpy
 sudo pip3 install -U rosdep rosinstall_generator vcstool
 sudo pip3 install --upgrade setuptools
 sudo apt-get install -y build-essential
